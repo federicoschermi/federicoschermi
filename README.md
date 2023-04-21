@@ -6,7 +6,7 @@
 public class Federico {
     private String name = "Federico";
     private String surname = "Schermi";
-    private String education = "BSc in Computer Engineering, PoliMi";
+    private String education = "BSc in Computer Engineering";
     private String[] interests = {"Machine Learning", "AGI", "Blockchain"};
     private String personal site = federicoschermi.dev;
     private String email = federicoschermi60@gmail.com;
