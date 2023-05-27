@@ -20,11 +20,6 @@ public class Federico {
 
 ![JavaScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_48x48.png) ![Java](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java_48x48.png) ![C](https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_48x48.png) ![CSS](https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css_48x48.png) ![HTML](https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_48x48.png)
 
-<!--
-### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=federicoschermi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
--->
-
 ### Contacts 📢
 
 <div align=center>
