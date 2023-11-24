@@ -2,17 +2,16 @@
 
 ---
 
-```java
-public class Federico {
-    private String name = "Federico";
-    private String surname = "Schermi";
-    private String education = "BSc in Computer Engineering";
-    private String[] interests = {"Machine Learning", "Deep Learning", "AGI"};
-    private String personal site = federicoschermi.dev;
-    private String email = federicoschermi60@gmail.com;
+```python
+class Federico:
+    def __init__(self):
+        self.name = "Federico"
+        self.surname = "Schermi"
+        self.interests = ["Machine Learning", "Deep Learning", "Artificial General Intelligence"]
+        self.personal_site = "federicoschermi.dev"
+        self.email = "federicoschermi60@gmail.com"
 
-    public Federico() {
-    }
-}
+federico = Federico()
+
 ```
 
